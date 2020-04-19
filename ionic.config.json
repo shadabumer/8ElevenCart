@@ -1,0 +1,7 @@
+{
+  "name": "Eight-11cart",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
